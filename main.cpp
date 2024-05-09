@@ -31,6 +31,7 @@ int main() {
 	cin.ignore(numeric_limits<streamsize>::max(), '\n');
 
 
+
 	int charCount = charcnt(input, ch);
 	int repeatCount = repeat(input);
 
