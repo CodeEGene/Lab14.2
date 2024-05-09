@@ -22,6 +22,7 @@ int main() {
 	string line;
 	char ch;
 
+
 	cout << "Enter a string: ";
 	cin.getline(input, MAX_INPUT_LENGTH);
 
