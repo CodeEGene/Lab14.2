@@ -32,6 +32,7 @@ int main() {
 
 
 
+
 	int charCount = charcnt(input, ch);
 	int repeatCount = repeat(input);
 
